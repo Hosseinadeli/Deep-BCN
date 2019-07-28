@@ -32,4 +32,5 @@ Adeli, H., & Zelinsky, G. (2018). Deep-BCN: Deep networks meet biased competitio
 Refs:
 - https://github.com/Ankush96/grad-cam.tensorflow
 - https://github.com/tensorflow/models/tree/master/research/slim
+- [MASC](https://github.com/Hosseinadeli/MASC_py) 
 
