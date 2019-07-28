@@ -25,7 +25,7 @@ To create CCFs, run this file.
 
 Citation:
 
-Adeli, H., & Zelinsky, G. (2018). Deep-BCN: Deep networks meet biased competition to create a brain-inspired model of attention control. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (pp. 1932-1942).
+Adeli, H., & Zelinsky, G. (2018). Deep-BCN: Deep networks meet biased competition to create a brain-inspired model of attention control. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (pp. 1932-1942).[pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w39/Adeli_Deep-BCN_Deep_Networks_CVPR_2018_paper.pdf)
 
 
 
